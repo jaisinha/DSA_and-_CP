@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "iterator": "cpp",
+        "xutility": "cpp",
+        "xstring": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "cstdlib": "cpp",
+        "limits": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "vector": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
